@@ -1,0 +1,44 @@
+# ---- data and analysis outputs (never commit) ------------------------------
+data/
+results/
+work/
+tables/
+out/
+figures/
+
+# large or intermediate files
+*.gz
+*.bgz
+*.tbi
+*.bim
+*.bed
+*.fam
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.rds
+*.RData
+*.sumstats
+*.log
+*.nosex
+*.clumped
+*.ld
+
+# ---- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# ---- editors / OS ----------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
