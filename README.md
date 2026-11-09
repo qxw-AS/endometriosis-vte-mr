@@ -1,6 +1,6 @@
 # Endometriosis and venous thromboembolism: shared genetic architecture and bidirectional Mendelian randomization
 
-Analysis code for the manuscript *"Mendelian randomization identifies antagonistic pleiotropy at F5 with no detectable genome-wide genetic sharing between endometriosis and venous thromboembolism"* (v1.1, 2026-11-09).
+Analysis code for the manuscript "Genetic overlap analysis of endometriosis and venous thromboembolism identifies antagonistic pleiotropy at F5 with no detectable genome-wide genetic sharing"
 
 ## Overview
 
